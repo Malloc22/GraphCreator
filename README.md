@@ -5,8 +5,22 @@ made with sfml
 
 <img width=252 height=81 src="./pic/logo.png">
 
-# opportunities
+1. start window
 
+<img width=252 height=81 src="./pic/image4.png">
+
+# opportunities
+# - create vertex
+
+<img width=252 height=81 src="./pic/image5.png">
+
+# - focus vertex
+
+<img width=252 height=81 src="./pic/image6.png">
+
+# - add edges
+
+<img width=252 height=81 src="./pic/image7.png">
 
 by student RIS-22-2b Mizev V.A.
 
