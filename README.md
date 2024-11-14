@@ -9,7 +9,10 @@ made with sfml
 
 <img src="./pic/image4.png">
 
+# ---------------------------
 # opportunities
+# ---------------------------
+
 # - create vertex
 
 <img src="./pic/image5.png">
@@ -20,7 +23,17 @@ made with sfml
 
 # - add edges
 
-<img src="./pic/image7.png">
+<img src="./pic/image8.png">
+
+# - edit vertex
+
+<img src="./pic/image9.png">
+
+# - adjacency matrix
+
+<img src="./pic/image10.png">
+
+# ---------------------------
 
 by student RIS-22-2b Mizev V.A.
 
