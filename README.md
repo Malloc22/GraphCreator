@@ -9,9 +9,7 @@ made with sfml
 
 <img src="./pic/image4.png">
 
-# ---------------------------
-# opportunities
-# ---------------------------
+# opportunities:
 
 # - create vertex
 
