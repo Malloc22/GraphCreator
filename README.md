@@ -5,5 +5,8 @@ made with sfml
 
 <img width=252 height=81 src="./pic/logo.png">
 
+# opportunities
+
+
 by student RIS-22-2b Mizev V.A.
 
