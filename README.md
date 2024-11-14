@@ -11,27 +11,27 @@ made with sfml
 
 # opportunities:
 
-# - create vertex
+- create vertex
 
 <img src="./pic/image5.png">
 
-# - focus vertex
+- focus vertex
 
 <img src="./pic/image6.png">
 
-# - add edges
+- add edges
 
 <img src="./pic/image8.png">
 
-# - edit vertex
+- edit vertex
 
 <img src="./pic/image9.png">
 
-# - adjacency matrix
+- adjacency matrix
 
 <img src="./pic/image10.png">
 
-# ---------------------------
+---------------------------
 
 by student RIS-22-2b Mizev V.A.
 
